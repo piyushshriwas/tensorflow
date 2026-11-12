@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Copyright 2026 The TensorFlow Authors. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,6 +15,9 @@
 # ==============================================================================
 
 name: TensorFlow Issue Template
+=======
+name: TensorFlow Issue 
+>>>>>>> Stashed changes
 description: Use this template to report TensorFlow-related issues
 body:
   - type: dropdown
